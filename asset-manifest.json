@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/facebook-clone/static/js/main.8aedc218.js",
+    "static/media/Image.png": "/facebook-clone/static/media/Image.ccb179267204ac049de4.png",
+    "static/media/myProfile1.jpg": "/facebook-clone/static/media/myProfile1.0e93e69b1217d413e5f9.jpg",
+    "static/media/Image2.png": "/facebook-clone/static/media/Image2.0f255aef8ffd7c27de95.png",
+    "static/media/profile1.webp": "/facebook-clone/static/media/profile1.5080058e6ce556fc5f70.webp",
+    "static/media/Logo.png": "/facebook-clone/static/media/Logo.b1415231e1958f8d9ac8.png",
+    "static/media/profile4.jpg": "/facebook-clone/static/media/profile4.862a35afb7c4af52e515.jpg",
+    "static/media/profile5.jpg": "/facebook-clone/static/media/profile5.dd8f9f8ed77bbbb31036.jpg",
+    "static/media/profile2.webp": "/facebook-clone/static/media/profile2.d31a15e7b1bba4fd38e8.webp",
+    "static/media/addIcon.jpeg": "/facebook-clone/static/media/addIcon.0016e1c846344d71864d.jpeg",
+    "static/media/profile3.webp": "/facebook-clone/static/media/profile3.eea4503201f5dda6fe17.webp",
+    "index.html": "/facebook-clone/index.html",
+    "main.8aedc218.js.map": "/facebook-clone/static/js/main.8aedc218.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8aedc218.js"
+  ]
+}
